@@ -1,0 +1,11 @@
+C:\Users\Manager\source\repos\Cadastro_Aluno\Cadastro_Aluno\bin\Debug\Cadastro_Aluno.exe.config
+C:\Users\Manager\source\repos\Cadastro_Aluno\Cadastro_Aluno\bin\Debug\Cadastro_Aluno.exe
+C:\Users\Manager\source\repos\Cadastro_Aluno\Cadastro_Aluno\bin\Debug\Cadastro_Aluno.pdb
+C:\Users\Manager\source\repos\Cadastro_Aluno\Cadastro_Aluno\obj\Debug\Cadastro_Aluno.csproj.AssemblyReference.cache
+C:\Users\Manager\source\repos\Cadastro_Aluno\Cadastro_Aluno\obj\Debug\Cadastro_Aluno.Aluno.resources
+C:\Users\Manager\source\repos\Cadastro_Aluno\Cadastro_Aluno\obj\Debug\Cadastro_Aluno.Cadastro.resources
+C:\Users\Manager\source\repos\Cadastro_Aluno\Cadastro_Aluno\obj\Debug\Cadastro_Aluno.Properties.Resources.resources
+C:\Users\Manager\source\repos\Cadastro_Aluno\Cadastro_Aluno\obj\Debug\Cadastro_Aluno.csproj.GenerateResource.cache
+C:\Users\Manager\source\repos\Cadastro_Aluno\Cadastro_Aluno\obj\Debug\Cadastro_Aluno.csproj.CoreCompileInputs.cache
+C:\Users\Manager\source\repos\Cadastro_Aluno\Cadastro_Aluno\obj\Debug\Cadastro_Aluno.exe
+C:\Users\Manager\source\repos\Cadastro_Aluno\Cadastro_Aluno\obj\Debug\Cadastro_Aluno.pdb
